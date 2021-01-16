@@ -4,8 +4,8 @@
 **buyongtatt/buyongtatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-🔭 I’m currently studying in UUM
+-->
+- 🔭 I’m currently studying in UUM
 - 🌱 I’m currently learning Information Technology Major in Software Engineering
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m not looking for help currently
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.facebook.com/bu.yongtatt
 - 😄 Pronouns: Tatt
 - ⚡ Fun fact: I like running
--->
+
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=buyongtatt&theme=highcontrast&show_icons=true&count_private=true)
  
