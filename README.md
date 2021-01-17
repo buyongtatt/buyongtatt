@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like running
 
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=buyongtatt&theme=highcontrast&show_icons=true&count_private=true)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=buyongtatt&theme=highcontrast&show_icons=true&count_private=true)
  
- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=buyongtatt&layout=compact)
+ ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=buyongtatt&theme=highcontrast&layout=compact)
