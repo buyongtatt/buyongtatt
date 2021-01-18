@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying in UUM
-- 🌱 I’m currently learning Information Technology Major in Software Engineering
+- 🔭 I’m currently studying Information Technology Major in Software Engineering in UUM
+<!--- 🌱 I’m currently learning -->
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m not looking for help currently
 - 💬 Ask me about anything
